@@ -244,6 +244,14 @@
   pricing_source: https://www.opsgenie.com/pricing
   updated_at: 2018-11-08
 
+- name: Otter
+  url: https://www.otter.ai/
+  base_pricing: $8.33 per u/m
+  sso_pricing: $20 per u/m
+  percent_increase: 140%
+  pricing_source: https://otter.ai/pricing
+  updated_at: 2021-07-28
+
 - name: PagerTree
   url: https://pagertree.com
   base_pricing: $10 per u/m
