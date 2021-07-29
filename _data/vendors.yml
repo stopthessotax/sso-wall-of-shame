@@ -242,6 +242,14 @@
   percent_increase: 50%
   pricing_source: https://pagertree.com/pricing/
   updated_at: 2018-11-08
+  
+- name: PandaDoc
+  url: https://pandadoc.com
+  base_pricing: $19 per u/m
+  sso_pricing: $49 per u/mfootnotes: "[^PandaDoc]: SSO locked behind Enterprise Call Us"
+  percent_increase: 50%
+  pricing_source: https://pandadoc.com/pricing/
+  updated_at: 2021-07-29
 
 - name: Playvox
   url: https://www.playvox.com
