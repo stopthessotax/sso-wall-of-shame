@@ -284,6 +284,15 @@
   pricing_source: https://www.playvox.com/pricing
   updated_at: 2020-06-09
 
+- name: Pleasant Password Server
+  url: https://pleasantsolutions.com/passwordserver
+  base_pricing: $81.20 per user
+  sso_pricing: $151 per user
+  percent_increase: 86%[^pleasantsolutions]
+  pricing_source: https://pleasantsolutions.com/passwordserver/purchase?users=5&tier=A
+  updated_at: 2021-09-05
+  footnotes: "[^pleasantsolutions]: The tax ranges from 86% at this low end user count to around 54% for higher user counts."
+
 - name: Postman
   url: https://www.postman.com/
   base_pricing: $12 per u/m
