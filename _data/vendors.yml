@@ -401,6 +401,14 @@
   pricing_source: https://stackoverflow.com/pricing
   updated_at: 2019-06-24
 
+- name: Tettra
+  url: https://tettra.com
+  base_pricing: $8.33 per u/m
+  sso_pricing: $16.66 per u/m
+  percent_increase: 100%
+  pricing_source: https://tettra.com/pricing
+  updated_at: 2022-04-12
+
 - name: Trello
   url: https://trello.com
   base_pricing: $10 per u/m
