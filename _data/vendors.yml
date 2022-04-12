@@ -158,6 +158,16 @@
   pricing_source: https://github.com/pricing
   updated_at: 2020-04-14
 
+- name: Grammarly
+  url: https://www.grammarly.com
+  base_pricing: $12.50 per u/m
+  sso_pricing: $583.33 per u/m [^grammarly]
+  percent_increase: 4567%
+  pricing_source: https://grammarly.com/business/pricing
+  footnote: "[^grammarly]: SSO doesn't cost more per user but requires a minimum of 50 users. If you only had 10 actual users but wanted SSO, you'd have to pay $583.33/month, instead of $120.83/month"
+  updated_at: 2022-04-12
+
+
 - name: Hubspot Marketing
   url: https://www.hubspot.com
   base_pricing: $46 per month
