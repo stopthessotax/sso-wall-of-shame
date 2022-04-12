@@ -417,6 +417,15 @@
   pricing_source: https://www.twilio.com/enterprise
   updated_at: 2018-10-22
 
+- name: Veremark
+  url: https://www.veremark.com
+  base_pricing: pay as you go
+  sso_pricing: £100 per month
+  percent_increase: 100% [^veremark]
+  pricing_source: Quote from Sales Person
+  updated_at: 2022-04-12
+  footnotes: "[^veremark]: The SSO pricing is charged on a flat rate of 100 GBP per month.  The assumption here is that 1 GBP per month as the base pricing as the tool is charging on a pay as you go variant."
+
 - name: VictorOps
   url: https://victorops.com
   base_pricing: $29 per u/m
