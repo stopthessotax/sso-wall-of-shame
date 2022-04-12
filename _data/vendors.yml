@@ -417,6 +417,15 @@
   pricing_source: https://trello.com/pricing
   updated_at: 2018-10-17
 
+- name: TeamViewer
+  url: https://teamviewer.com
+  base_pricing: €27.90 per month
+  sso_pricing: €833.00 per month
+  percent_increase: 2885% [^teamviewer]
+  pricing_source: https://teamviewer.com/en/buy-now & quote
+  footnote: "[^teamviewer]: Pricing from a quote. TeamViewer's base price is 'TeamViewer Business' & their enterprise-oriented product TeamViewer Tensor is about 10 000€/year."
+  updated_at: 2022-04-12
+  
 - name: Twilio
   url: https://twilio.com
   base_pricing: $0
