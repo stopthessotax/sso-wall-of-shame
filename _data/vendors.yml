@@ -43,6 +43,14 @@
   pricing_source: https://www.box.com/pricing
   updated_at: 2018-10-17
 
+- name: Cal.com
+  url: https://cal.com/
+  base_pricing: $12 per month
+  sso_pricing: $39 per month
+  percent_increase: 225%
+  pricing_source: https://cal.com/pricing?saas
+  updated_at: 2022-06-08
+
 - name: Checkly
   url: https://checklyhq.com/
   base_pricing: $29 per month
