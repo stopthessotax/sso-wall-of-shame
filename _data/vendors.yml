@@ -286,6 +286,14 @@
   pricing_source: https://pagertree.com/pricing/
   updated_at: 2018-11-08
 
+- name: Pipedeam
+  url: https://pipedream.com
+  base_pricing: $29 pcm
+  sso_pricing: $749 pcm
+  percent_increase: 2482%
+  pricing_source: https://pipedream.com/pricing
+  updated_at: 2023-03-01
+
 - name: Playvox
   url: https://www.playvox.com
   base_pricing: $15 per u/m
