@@ -443,6 +443,15 @@
   pricing_source: https://www.twilio.com/enterprise
   updated_at: 2018-10-22
 
+- name: Vercel
+  url: https://vercel.com
+  base_pricing: $20 per u/m
+  sso_pricing: $150 per month on Pro plan
+  percent_increase: 250% [^vercel]
+  pricing_source: Quote from Sales Person
+  updated_at: 2022-08-23
+  footnotes: "[^vercel]: The SSO pricing for the Pro Plan is charged as an addon with a flat rate of $150 per month. The base price for the Pro Plan is $20 per month per user."
+
 - name: Veremark
   url: https://www.veremark.com
   base_pricing: pay as you go
