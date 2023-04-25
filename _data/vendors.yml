@@ -288,9 +288,9 @@
 
 - name: Pipedeam
   url: https://pipedream.com
-  base_pricing: $29 pcm
-  sso_pricing: $749 pcm
-  percent_increase: 2482%
+  base_pricing: $29 per u/m
+  sso_pricing: $749 per u/m
+  percent_increase: 2583%
   pricing_source: https://pipedream.com/pricing
   updated_at: 2023-03-01
 
