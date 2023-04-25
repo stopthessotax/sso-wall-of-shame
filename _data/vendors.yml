@@ -246,10 +246,10 @@
 - name: PandaDoc
   url: https://pandadoc.com
   base_pricing: $19 per u/m
-  sso_pricing: $49 per u/mfootnotes: "[^PandaDoc]: SSO locked behind Enterprise Call Us"
-  percent_increase: 50%
+  sso_pricing: Call Us footnotes: "[^PandaDoc]: SSO locked behind Enterprise Call Us"
+  percent_increase: ???
   pricing_source: https://pandadoc.com/pricing/
-  updated_at: 2021-07-29
+  updated_at: 2023-04-24
 
 - name: Playvox
   url: https://www.playvox.com
