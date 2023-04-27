@@ -1,11 +1,8 @@
 ---
-name: Add/Update Vendor (Pull Request Friendly)
-about: Use this template to create a pull request friendly issue.
+name: New Vendor (Pull Request Friendly)
+about: Use this template to create a pull-request-friendly issue.
   
 ---
-
-  **Is this issue to add a new vendor, or update an existing entry?**
-  (e.g. new)
 
   **How to use**
 - **name:** Use the vendors name 
