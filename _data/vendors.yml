@@ -91,6 +91,15 @@
   pricing_source: https://coderpad.io/pricing
   updated_at: 2019-06-28
 
+- name: dbt Cloud
+  url: https://www.getdbt.com/
+  base_pricing: $100 per u/m
+  footnotes: '[^dbt-price]: $20K/year for 5 users minimum for Enterprise edition'
+  percent_increase: 233%
+  pricing_note: Quote
+  sso_pricing: $333 per u/m
+  updated_at: 2023-04-11
+
 - name: Docker
   url: https://www.docker.com
   base_pricing: $7 per u/m
