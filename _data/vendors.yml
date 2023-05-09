@@ -385,6 +385,14 @@
   pricing_source: https://slack.com/pricing
   updated_at: 2018-10-17
 
+- name: SmartDraw
+  url: https://smartdraw.com
+  base_pricing: $5.95 per u/m
+  sso_pricing: $49.99 per u/m
+  percent_increase: 740%
+  pricing_source: https://www.smartdraw.com/buy/sdcloud.htm
+  updated_at: 2023-05-09
+
 - name: SmartSheet
   url: https://smartsheet.com
   base_pricing: $25 per u/m
