@@ -387,11 +387,11 @@
 
 - name: SmartDraw
   url: https://smartdraw.com
-  base_pricing: $5.95 per u/m
-  sso_pricing: $49.99 per u/m
-  percent_increase: 740%
+  base_pricing: $8.25 per u/m
+  sso_pricing: $49.92 per u/m
+  percent_increase: 505%
   pricing_source: https://www.smartdraw.com/buy/sdcloud.htm
-  updated_at: 2023-05-09
+  updated_at: 2023-05-10
 
 - name: SmartSheet
   url: https://smartsheet.com
