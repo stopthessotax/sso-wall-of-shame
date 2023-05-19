@@ -91,6 +91,15 @@
   pricing_source: https://coderpad.io/pricing
   updated_at: 2019-06-28
 
+- name: dbt Cloud
+  url: https://www.getdbt.com/
+  base_pricing: $100 per u/m
+  footnotes: '[^dbt-price]: $20K/year for 5 users minimum for Enterprise edition'
+  percent_increase: 233%
+  pricing_note: Quote
+  sso_pricing: $333 per u/m
+  updated_at: 2023-04-11
+
 - name: DNS Made Easy (Digicert)
   url: https://dnsmadeeasy.com/
   base_pricing: $56 per month
@@ -295,6 +304,14 @@
   percent_increase: 50%
   pricing_source: https://pagertree.com/pricing/
   updated_at: 2018-11-08
+  
+- name: PandaDoc
+  url: https://pandadoc.com
+  base_pricing: $19 per u/m
+  sso_pricing: Call Us footnotes: "[^PandaDoc]: SSO locked behind Enterprise Call Us"
+  percent_increase: ???
+  pricing_source: https://pandadoc.com/pricing/
+  updated_at: 2023-04-24
 
 - name: Pipedeam
   url: https://pipedream.com
@@ -386,6 +403,14 @@
   pricing_source: https://slack.com/pricing
   updated_at: 2018-10-17
 
+- name: SmartDraw
+  url: https://smartdraw.com
+  base_pricing: $8.25 per u/m
+  sso_pricing: $49.92 per u/m
+  percent_increase: 505%
+  pricing_source: https://www.smartdraw.com/buy/sdcloud.htm
+  updated_at: 2023-05-10
+
 - name: SmartSheet
   url: https://smartsheet.com
   base_pricing: $25 per u/m
@@ -401,15 +426,14 @@
   percent_increase: 67%
   pricing_source: https://snyk.io/plans
   updated_at: 2018-10-22
-
+  
 - name: Splashtop SOS
-  url: https://splashtop.com
-  base_pricing: $399 per u/y [^splashtop]
-  sso_pricing: $750 per u/y
-  footnotes: "[^splashtop]: Pricing varies based on use, but in all cases appears to have a significant jump for SSO support"
-  percent_increase: 88%
+  url: https://www.splashtop.com
+  base_pricing: $200 per tech/year
+  sso_pricing: $750 per tech/year
+  percent_increase: 275%
   pricing_source: https://www.splashtop.com/pricing
-  updated_at: 2021-09-05
+  updated_at: 2022-04-12
 
 - name: Stack Overflow
   url: https://stackoverflow.com
