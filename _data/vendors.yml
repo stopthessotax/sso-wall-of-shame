@@ -238,7 +238,15 @@
   percent_increase: 162%
   pricing_source: https://mattermost.com/pricing/
   updated_at: 2019-06-25
-
+  
+- name: Metaplane
+  url: https://www.metaplane.dev/
+  base_pricing: $825/month
+  sso_pricing: Call Us!
+  percent_increase: ???
+  pricing_source: https://www.metaplane.dev/pricing
+  updated_at: 2023-05-09
+  
 - name: Miro
   url: https://miro.com
   base_pricing: $8 per u/m
