@@ -100,6 +100,16 @@
   sso_pricing: $333 per u/m
   updated_at: 2023-04-11
 
+- name: DNS Made Easy (Digicert)
+  url: https://dnsmadeeasy.com/
+  base_pricing: $56 per month
+  sso_pricing: $175 per month[^dnsmadeeasy-price]
+  percent_increase:  212%
+  pricing_source: https://dnsmadeeasy.com/pricing/
+  pricing_note: Website
+  footnotes: "[^dnsmadeeasy-price]: Requires $250 setup fee: https://support.dnsmadeeasy.com/support/solutions/articles/47001169433-saml-security-assertion-markup-language-integration"
+  updated_at: 2023-04-29
+
 - name: Docker
   url: https://www.docker.com
   base_pricing: $7 per u/m
