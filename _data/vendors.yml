@@ -416,15 +416,14 @@
   percent_increase: 67%
   pricing_source: https://snyk.io/plans
   updated_at: 2018-10-22
-
+  
 - name: Splashtop SOS
-  url: https://splashtop.com
-  base_pricing: $399 per u/y [^splashtop]
-  sso_pricing: $750 per u/y
-  footnotes: "[^splashtop]: Pricing varies based on use, but in all cases appears to have a significant jump for SSO support"
-  percent_increase: 88%
+  url: https://www.splashtop.com
+  base_pricing: $200 per tech/year
+  sso_pricing: $750 per tech/year
+  percent_increase: 275%
   pricing_source: https://www.splashtop.com/pricing
-  updated_at: 2021-09-05
+  updated_at: 2022-04-12
 
 - name: Stack Overflow
   url: https://stackoverflow.com
