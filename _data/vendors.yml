@@ -100,6 +100,14 @@
   sso_pricing: $333 per u/m
   updated_at: 2023-04-11
 
+- name: Directus Cloud
+  url: https://directus.io
+  base_pricing: $99 per project/mo
+  sso_pricing: Call Us!
+  percent_increase: ???
+  pricing_source: https://directus.io/pricing/cloud/
+  updated_at: 2023-05-06
+
 - name: DNS Made Easy (Digicert)
   url: https://dnsmadeeasy.com/
   base_pricing: $56 per month
