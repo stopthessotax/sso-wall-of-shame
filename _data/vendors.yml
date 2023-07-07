@@ -59,6 +59,14 @@
   pricing_source: https://clockify.me/extra-features
   updated_at: 2021-07-31
 
+- name: ClickUp
+  url: https://clickup.com
+  base_pricing: $9 per u/m
+  sso_pricing: $19 per u/m
+  percent_increase: 211%
+  pricing_source: https://clickup.com/pricing
+  updated_at: 2023-07-07
+
 - name: CloudFlare
   url: https://www.cloudflare.com
   base_pricing: $20
