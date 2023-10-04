@@ -202,6 +202,14 @@
   footnote: "[^grammarly]: SSO doesn't cost more per user but requires a minimum of 50 users. If you only had 10 actual users but wanted SSO, you'd have to pay $583.33/month, instead of $120.83/month"
   updated_at: 2022-04-12
 
+- name: Hotjar
+  url: https://www.hotjar.com
+  base_pricing: $32.00 per /m
+  sso_pricing: $171.00 per /m
+  percent_increase: 434%
+  pricing_source: https://www.hotjar.com/pricing
+  footnote: "[^hotjar]: There is a free plan however that is very limited so base pricing is taken on the lowest paid plan"
+  updated_at: 2023-07-19
 
 - name: Hubspot Marketing
   url: https://www.hubspot.com
