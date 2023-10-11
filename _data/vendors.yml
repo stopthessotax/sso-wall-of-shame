@@ -202,6 +202,14 @@
   footnote: "[^grammarly]: SSO doesn't cost more per user but requires a minimum of 50 users. If you only had 10 actual users but wanted SSO, you'd have to pay $583.33/month, instead of $120.83/month"
   updated_at: 2022-04-12
 
+- name: Hakuna
+  url: https://www.hakuna.ch
+  base_pricing: 69 CHF for 5 u/m
+  sso_pricing: 139 CHF for 5 u/m
+  percent_increase: 200%
+  pricing_source: https://www.hakuna.ch/preise
+  footnote: "[^hakuna]: Non-linear pricing; price per user decreases with more users"
+  updated_at: 2023-10-04
 
 - name: Hubspot Marketing
   url: https://www.hubspot.com
