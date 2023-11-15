@@ -262,7 +262,7 @@
   percent_increase: 162%
   pricing_source: https://mattermost.com/pricing/
   updated_at: 2019-06-25
-  
+
 - name: Metaplane
   url: https://www.metaplane.dev/
   base_pricing: $825/month
@@ -270,7 +270,7 @@
   percent_increase: ???
   pricing_source: https://www.metaplane.dev/pricing
   updated_at: 2023-05-09
-  
+
 - name: Miro
   url: https://miro.com
   base_pricing: $8 per u/m
@@ -278,7 +278,7 @@
   percent_increase: 100%
   pricing_source: https://miro.com/pricing/
   updated_at: 2019-09-13
-  
+
 - name: Monday.com
   url: https://monday.com
   base_pricing: $11 per u/m
@@ -321,6 +321,15 @@
   pricing_source: https://www.notion.so/pricing
   updated_at: 2023-09-25
 
+- name: Nocodb
+  url: https://nocodb.com/
+  base_pricing: $19 fixed for 10 users (Free in technical preview)
+  sso_pricing: Call Us! (Free in technical preview) [^nocodb]
+  percent_increase: ?%
+  pricing_source: https://nocodb.com/pricing
+  updated_at: 2023-11-15
+  footnotes: "[^nocodb]: Community PR to enable OIDC in community edition rejected https://github.com/nocodb/nocodb/pull/3979#issuecomment-1378038492"
+
 - name: OpsGenie
   url: https://www.opsgenie.com/
   base_pricing: $9 per u/m
@@ -336,11 +345,11 @@
   percent_increase: 50%
   pricing_source: https://pagertree.com/pricing/
   updated_at: 2018-11-08
-  
+
 - name: PandaDoc
   url: https://pandadoc.com
   base_pricing: $19 per u/m
-  sso_pricing: Call Us 
+  sso_pricing: Call Us
   footnotes: "[^PandaDoc]: SSO locked behind Enterprise Call Us"
   percent_increase: ???
   pricing_source: https://pandadoc.com/pricing/
@@ -459,7 +468,7 @@
   percent_increase: 67%
   pricing_source: https://snyk.io/plans
   updated_at: 2018-10-22
-  
+
 - name: Splashtop SOS
   url: https://www.splashtop.com
   base_pricing: $200 per tech/year
@@ -500,7 +509,7 @@
   pricing_source: https://teamviewer.com/en/buy-now & quote
   footnote: "[^teamviewer]: Pricing from a quote. TeamViewer's base price is 'TeamViewer Business' & their enterprise-oriented product TeamViewer Tensor is about 10 000€/year."
   updated_at: 2022-04-12
-  
+
 - name: Twilio
   url: https://twilio.com
   base_pricing: $0
@@ -544,4 +553,4 @@
   percent_increase: 100%
   pricing_source: https://zapier.com/app/billing/plans/
   updated_at: 2019-10-19
-  
+
