@@ -437,6 +437,14 @@
   pricing_source: https://sentry.io/pricing/
   updated_at: 2018-10-20
 
+- name: Sensu
+  url: https://sensu.io/
+  base_pricing: $0
+  sso_pricing: $3 per node/month
+  percentage_increase: 300%
+  pricing_source: https://sensu.io/pricing
+  updated_at: 2023-11-27
+
 - name: Slack
   url: https://slack.com
   base_pricing: $6.67 per u/m
