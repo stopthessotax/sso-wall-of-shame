@@ -429,6 +429,15 @@
   pricing_source: https://rocket.chat/pricing#cloud
   updated_at: 2018-10-22
 
+- name: Rollbar
+  url: https://rollbar.com/developer/
+  base_pricing: $19 /mo for 25k event volume
+  sso_pricing: $39 /mo for 25K event volume[^rollbar]
+  percent_increase: 205%
+  pricing_source: https://rollbar.com/pricing/
+  updated_at: 2024-11-08
+  footnotes: "[^rollbar]: Basic SSO for Google and GitHub on all plans. Okta, Azure, etc. are on Advanced plan and up. Increase % varies based on event volume"
+
 - name: Sentry
   url: https://sentry.io
   base_pricing: $26 for 100K events
