@@ -202,6 +202,15 @@
   footnote: "[^grammarly]: SSO doesn't cost more per user but requires a minimum of 50 users. If you only had 10 actual users but wanted SSO, you'd have to pay $583.33/month, instead of $120.83/month"
   updated_at: 2022-04-12
 
+- name: Hakuna
+  url: https://www.hakuna.ch
+  base_pricing: 69 CHF for 5 u/m
+  sso_pricing: 139 CHF for 5 u/m
+  percent_increase: 200%
+  pricing_source: https://www.hakuna.ch/preise
+  footnote: "[^hakuna]: Non-linear pricing; price per user decreases with more users"
+  updated_at: 2023-10-04
+
 - name: Hotjar
   url: https://www.hotjar.com
   base_pricing: $32.00 per /m
@@ -262,7 +271,7 @@
   percent_increase: 162%
   pricing_source: https://mattermost.com/pricing/
   updated_at: 2019-06-25
-  
+
 - name: Metaplane
   url: https://www.metaplane.dev/
   base_pricing: $825/month
@@ -270,7 +279,7 @@
   percent_increase: ???
   pricing_source: https://www.metaplane.dev/pricing
   updated_at: 2023-05-09
-  
+
 - name: Miro
   url: https://miro.com
   base_pricing: $8 per u/m
@@ -278,7 +287,7 @@
   percent_increase: 100%
   pricing_source: https://miro.com/pricing/
   updated_at: 2019-09-13
-  
+
 - name: Monday.com
   url: https://monday.com
   base_pricing: $11 per u/m
@@ -316,10 +325,19 @@
 - name: Notion
   url: https://www.notion.so
   base_pricing: $8 per u/m
-  sso_pricing: $20 per u/m
-  percent_increase: 150%
-  pricing_source: https://www.notion.so/Plans-pricing-6067b27f7a244ccc8320c984baea61d7#bbb051f972bb45c8a8c250ed8ae686ea
-  updated_at: 2020-04-29
+  sso_pricing: $15 per u/m
+  percent_increase: 87.5%
+  pricing_source: https://www.notion.so/pricing
+  updated_at: 2023-09-25
+
+- name: Nocodb
+  url: https://nocodb.com/
+  base_pricing: $19 fixed for 10 users (Free in technical preview)
+  sso_pricing: Call Us! (Free in technical preview) [^nocodb]
+  percent_increase: ?%
+  pricing_source: https://nocodb.com/pricing
+  updated_at: 2023-11-15
+  footnotes: "[^nocodb]: Community PR to enable OIDC in community edition rejected https://github.com/nocodb/nocodb/pull/3979#issuecomment-1378038492"
 
 - name: OpsGenie
   url: https://www.opsgenie.com/
@@ -336,11 +354,11 @@
   percent_increase: 50%
   pricing_source: https://pagertree.com/pricing/
   updated_at: 2018-11-08
-  
+
 - name: PandaDoc
   url: https://pandadoc.com
   base_pricing: $19 per u/m
-  sso_pricing: Call Us 
+  sso_pricing: Call Us
   footnotes: "[^PandaDoc]: SSO locked behind Enterprise Call Us"
   percent_increase: ???
   pricing_source: https://pandadoc.com/pricing/
@@ -420,6 +438,15 @@
   pricing_source: https://rocket.chat/pricing#cloud
   updated_at: 2018-10-22
 
+- name: Rollbar
+  url: https://rollbar.com/developer/
+  base_pricing: $19 /mo for 25k event volume
+  sso_pricing: $39 /mo for 25K event volume[^rollbar]
+  percent_increase: 205%
+  pricing_source: https://rollbar.com/pricing/
+  updated_at: 2024-11-08
+  footnotes: "[^rollbar]: Basic SSO for Google and GitHub on all plans. Okta, Azure, etc. are on Advanced plan and up. Increase % varies based on event volume"
+
 - name: Sentry
   url: https://sentry.io
   base_pricing: $26 for 100K events
@@ -427,6 +454,14 @@
   percent_increase: 208%
   pricing_source: https://sentry.io/pricing/
   updated_at: 2018-10-20
+
+- name: Sensu
+  url: https://sensu.io/
+  base_pricing: $0
+  sso_pricing: $3 per node/month
+  percentage_increase: 300%
+  pricing_source: https://sensu.io/pricing
+  updated_at: 2023-11-27
 
 - name: Slack
   url: https://slack.com
@@ -459,7 +494,7 @@
   percent_increase: 67%
   pricing_source: https://snyk.io/plans
   updated_at: 2018-10-22
-  
+
 - name: Splashtop SOS
   url: https://www.splashtop.com
   base_pricing: $200 per tech/year
@@ -500,7 +535,7 @@
   pricing_source: https://teamviewer.com/en/buy-now & quote
   footnote: "[^teamviewer]: Pricing from a quote. TeamViewer's base price is 'TeamViewer Business' & their enterprise-oriented product TeamViewer Tensor is about 10 000€/year."
   updated_at: 2022-04-12
-  
+
 - name: Twilio
   url: https://twilio.com
   base_pricing: $0
@@ -544,4 +579,4 @@
   percent_increase: 100%
   pricing_source: https://zapier.com/app/billing/plans/
   updated_at: 2019-10-19
-  
+
