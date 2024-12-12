@@ -35,6 +35,14 @@
   pricing_source: https://www.bitrise.io/pricing/teams
   updated_at: 2019-06-25
 
+- name: Bitwarden
+  url: https://bitwarden.com/
+  base_pricing: $4 per u/m
+  sso_pricing: $6 per u/m
+  percent_increase: 50%
+  pricing_source: https://bitwarden.com/pricing/business
+  updated_at: 2024-12-11  
+
 - name: Box
   url: https://www.box.com
   base_pricing: $5 per u/m
