@@ -1,0 +1,14 @@
+list(include('vendor'))
+
+---
+vendor:
+  name: str() 
+  url: str()
+  base_pricing: str()
+  sso_pricing: str()
+  percent_increase: str()
+  pricing_source: any(list(), str(), required=False)
+  pricing_note: str(required=False)
+  footnotes: str(required=False)
+  updated_at: day()
+

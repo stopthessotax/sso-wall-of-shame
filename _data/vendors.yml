@@ -1,7 +1,7 @@
 - name: Airtable
   url: https://airtable.com
   base_pricing: $10 per u/m
-  sso_pricing: $60 per u/m
+  sso_pricing: $60 per u/m[^airtable-price]
   percent_increase: 500%
   pricing_source: https://airtable.com/pricing
   pricing_note: Quote
@@ -113,7 +113,7 @@
   footnotes: '[^dbt-price]: $20K/year for 5 users minimum for Enterprise edition'
   percent_increase: 233%
   pricing_note: Quote
-  sso_pricing: $333 per u/m
+  sso_pricing: $333 per u/m[^dbt-price]
   updated_at: 2023-04-11
 
 - name: Directus Cloud
@@ -207,30 +207,30 @@
   sso_pricing: $583.33 per u/m [^grammarly]
   percent_increase: 4567%
   pricing_source: https://grammarly.com/business/pricing
-  footnote: "[^grammarly]: SSO doesn't cost more per user but requires a minimum of 50 users. If you only had 10 actual users but wanted SSO, you'd have to pay $583.33/month, instead of $120.83/month"
+  footnotes: "[^grammarly]: SSO doesn't cost more per user but requires a minimum of 50 users. If you only had 10 actual users but wanted SSO, you'd have to pay $583.33/month, instead of $120.83/month"
   updated_at: 2022-04-12
 
 - name: Hakuna
   url: https://www.hakuna.ch
-  base_pricing: 69 CHF for 5 u/m
-  sso_pricing: 139 CHF for 5 u/m
+  base_pricing: 69 CHF for 5 u/m[^hakuna]
+  sso_pricing: 139 CHF for 5 u/m[^hakuna]
   percent_increase: 200%
   pricing_source: https://www.hakuna.ch/preise
-  footnote: "[^hakuna]: Non-linear pricing; price per user decreases with more users"
+  footnotes: "[^hakuna]: Non-linear pricing; price per user decreases with more users"
   updated_at: 2023-10-04
 
 - name: Hotjar
   url: https://www.hotjar.com
-  base_pricing: $32.00 per /m
+  base_pricing: $32.00 per /m[^hotjar]
   sso_pricing: $171.00 per /m
   percent_increase: 434%
   pricing_source: https://www.hotjar.com/pricing
-  footnote: "[^hotjar]: There is a free plan however that is very limited so base pricing is taken on the lowest paid plan"
+  footnotes: "[^hotjar]: There is a free plan however that is very limited so base pricing is taken on the lowest paid plan"
   updated_at: 2023-07-19
 
 - name: Hubspot Marketing
   url: https://www.hubspot.com
-  base_pricing: $40 per month
+  base_pricing: $40 per month[^hubspotmarketing]
   sso_pricing: $3,600 per month
   percent_increase: 8900%
   pricing_source: https://www.hubspot.com/pricing/marketing/starter
@@ -367,8 +367,8 @@
 - name: PandaDoc
   url: https://pandadoc.com
   base_pricing: $19 per u/m
-  sso_pricing: Call Us
-  footnotes: "[^PandaDoc]: SSO locked behind Enterprise Call Us"
+  sso_pricing: Call Us[^pandadoc]
+  footnotes: "[^pandadoc]: SSO locked behind Enterprise Call Us"
   percent_increase: ???
   pricing_source: https://pandadoc.com/pricing/
   updated_at: 2023-04-24
@@ -468,7 +468,7 @@
   url: https://sensu.io/
   base_pricing: $0
   sso_pricing: $3 per node/month
-  percentage_increase: 300%
+  percent_increase: 300%
   pricing_source: https://sensu.io/pricing
   updated_at: 2023-11-27
 
@@ -542,7 +542,7 @@
   sso_pricing: €833.00 per month
   percent_increase: 2885% [^teamviewer]
   pricing_source: https://teamviewer.com/en/buy-now & quote
-  footnote: "[^teamviewer]: Pricing from a quote. TeamViewer's base price is 'TeamViewer Business' & their enterprise-oriented product TeamViewer Tensor is about 10 000€/year."
+  footnotes: "[^teamviewer]: Pricing from a quote. TeamViewer's base price is 'TeamViewer Business' & their enterprise-oriented product TeamViewer Tensor is about 10 000€/year."
   updated_at: 2022-04-12
 
 - name: Twilio

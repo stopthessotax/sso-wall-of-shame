@@ -105,3 +105,4 @@ But it costs money to provide SAML support, so we can't offer it for free!
 {% for vendor in site.data.vendors %}
 {{ vendor.footnotes }}
 {% endfor %}
+
