@@ -27,6 +27,14 @@
   pricing_source: https://www.atlassian.com/software/jira/pricing
   updated_at: 2018-10-22
 
+- name: Attio
+  url: https://attio.com
+  base_pricing: $29 per u/m
+  sso_pricing: $119 per u/m
+  percent_increase: 310%
+  pricing_source: https://attio.com/pricing
+  updated_at: 2025-02-27
+
 - name: Bitrise
   url: https://www.bitrise.io
   base_pricing: $90
